@@ -28,7 +28,7 @@ A comprehensive collection of educational certificates and achievements from pri
 | PSC Certificate | 2010 | [View](1_Primary_level_Education/07_PSC_Certificate_2010.jpg) |
 
 ### Extracurricular Activities
-- 🎨 **Art Certificate** - [View](1_Primary_level_Education/Extra%20Curricular%20Activities/01_Art_Certificate.jpg)
+- 🎨 **Art Certificate** - [View](1_Primary_level_Education/Extra_Curricular_Activities/01_Art_Certificate.jpg)
 
 ---
 
@@ -52,7 +52,7 @@ A comprehensive collection of educational certificates and achievements from pri
 | School Testimonial | 2015 | [View](2_Secondary_level_Education/13_SM_School_Testimonial_2015.jpg) |
 
 ### Extracurricular Activities
-- 🏕️ **Scout Certificate** - [View](2_Secondary_level_Education/Extra%20Curricular%20Activities/01_Scout_Certificate.jpg)
+- 🏕️ **Scout Certificate** - [View](2_Secondary_level_Education/Extra_Curricular_Activities/01_Scout_Certificate.jpg)
 
 ---
 
@@ -110,20 +110,20 @@ A comprehensive collection of educational certificates and achievements from pri
 
 | Activity | Year | File |
 |----------|------|------|
-| Hult Prize | 2023 | [View](4_B.Sc._in_CSE/Extra%20Curricular%20Activities/01_Hult_Prize_Certificate_2023.jpg) |
-| BracNET | - | [View](4_B.Sc._in_CSE/Extra%20Curricular%20Activities/02_BracNET_Certificate.jpg) |
-| Presice Energy | - | [View](4_B.Sc._in_CSE/Extra%20Curricular%20Activities/03_Presice_Energy_Certificate.jpg) |
-| Hult Prize | 2024 | [View](4_B.Sc._in_CSE/Extra%20Curricular%20Activities/04_Hult_Prize_Certificate_2024.jpg) |
-| BAUET Career Carnival Quiz Test | - | [View](4_B.Sc._in_CSE/Extra%20Curricular%20Activities/05_BAUET_Career_Carnival_Quiz_Test_Certificate.jpg) |
-| Mind Storm 5.0 Participation | - | [View](4_B.Sc._in_CSE/Extra%20Curricular%20Activities/06_Mind_Storm_5.0_Participation_Certificate.jpg) |
-| Mind Storm 5.0 | - | [View](4_B.Sc._in_CSE/Extra%20Curricular%20Activities/07_Mind_Storm_5.0_Certificate.jpg) |
-| BAUET Computer Society Membership | - | [View](4_B.Sc._in_CSE/Extra%20Curricular%20Activities/08_BAUET_Computer_Society_Membership_Certificate.png) |
+| Hult Prize | 2023 | [View](4_B.Sc._in_CSE/Extra_Curricular_Activities/01_Hult_Prize_Certificate_2023.jpg) |
+| BracNET | - | [View](4_B.Sc._in_CSE/Extra_Curricular_Activities/02_BracNET_Certificate.jpg) |
+| Presice Energy | - | [View](4_B.Sc._in_CSE/Extra_Curricular_Activities/03_Presice_Energy_Certificate.jpg) |
+| Hult Prize | 2024 | [View](4_B.Sc._in_CSE/Extra_Curricular_Activities/04_Hult_Prize_Certificate_2024.jpg) |
+| BAUET Career Carnival Quiz Test | - | [View](4_B.Sc._in_CSE/Extra_Curricular_Activities/05_BAUET_Career_Carnival_Quiz_Test_Certificate.jpg) |
+| Mind Storm 5.0 Participation | - | [View](4_B.Sc._in_CSE/Extra_Curricular_Activities/06_Mind_Storm_5.0_Participation_Certificate.jpg) |
+| Mind Storm 5.0 | - | [View](4_B.Sc._in_CSE/Extra_Curricular_Activities/07_Mind_Storm_5.0_Certificate.jpg) |
+| BAUET Computer Society Membership | - | [View](4_B.Sc._in_CSE/Extra_Curricular_Activities/08_BAUET_Computer_Society_Membership_Certificate.png) |
 
 ---
 
 ## 📊 Summary Statistics
 
-- **Total Certificates**: 50+
+- **Total Certificates**: 61
 - **Education Span**: 2005-2019 (14 years)
 - **Programming Contests**: 11 achievements
 - **Extracurricular Activities**: 11 certificates
